@@ -1,0 +1,6 @@
+# Methods
+
+
+def myFunctions (){
+    
+}
