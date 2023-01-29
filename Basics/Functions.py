@@ -1,6 +1,0 @@
-# Methods
-
-
-def myFunctions (){
-    
-}
